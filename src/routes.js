@@ -3,9 +3,9 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 import Header from "./components/Header";
 
-//import Home from "./pages/Home";
 import ReportPage from "./pages/ReportPage";
 import ChurchPage from "./pages/ChurchPage";
+import ContactPage from "./pages/ContactPage";
 
 export default function Routes() {
   return (
@@ -15,12 +15,12 @@ export default function Routes() {
         <div className="main_container">
           <Switch>
             <Route path="/" exact component={ReportPage} />
-            {/*<Route path="/relatorio" component={ReportPage} />*/}
             <Route
               name="informacoes"
               path="/informacoes/:church"
               component={ChurchPage}
             />
+            <Route path="/contact" component={ContactPage} />
           </Switch>
         </div>
       </BrowserRouter>

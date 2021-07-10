@@ -31,7 +31,7 @@ export default function Report() {
     { id: 4, name: "Quarta" },
     { id: 5, name: "Quinta" },
     { id: 6, name: "Sexta" },
-    { id: 7, name: "Sabado" },
+    { id: 7, name: "Sábado" },
     { id: 8, name: "Domingo" }
   ];
 
@@ -109,8 +109,8 @@ export default function Report() {
 
   return (
     <>
-      <div className="contact-container">
-        <div className="content">
+      <div className="report-container">
+        <div className="report-content">
           <h1>Selecione qual igreja de Campo Grande MS deseja congregar.</h1>
           <strong>Deus Abençoe!!!</strong>
           <form onSubmit={handleSubmit}>

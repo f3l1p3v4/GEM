@@ -23,7 +23,12 @@ body {
 input,
 button,
 textarea {
+  height: 45px;
+  padding: 10px;
   font: 400 18px Roboto, sans-serif;
+  color: #4b4b4b;
+  border: 1px solid #4b4b4b;
+  border-radius: 4px;
 }
 
 button {
@@ -80,9 +85,24 @@ a {
   text-align: center;
 }
 
+.warnings {
+  background: rgb(252, 187, 187);
+  color: rgb(235, 18, 18);
+  padding: 10px;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
 @media (max-width: 700px) {
   .home_container {
     padding: 0;
+  }
+
+  input,
+  button,
+  textarea {
+    height: 55px;
   }
 
   form select {
@@ -98,5 +118,9 @@ a {
     background: #4b4b4b;
     border: 0;
     color: #fff;
+  }
+
+  .warnings {
+    font-size: 0.9rem;
   }
 }

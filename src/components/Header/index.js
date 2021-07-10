@@ -1,13 +1,13 @@
 import React, { Component } from "react";
-//import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 import "./styles.css";
 
-//import Drawer from "../Menu/Drawertogglebutton";
-//import MenuOverlay from "../Menu/MenuOverlay";
+import Drawer from "../Menu/Drawertogglebutton";
+import MenuOverlay from "../Menu/MenuOverlay";
 
 class Header extends Component {
-  /*constructor(props) {
+  constructor(props) {
     super(props);
     this.state = {
       menuOverlayOpen: false
@@ -24,14 +24,14 @@ class Header extends Component {
   overlayCloseClickHandler = () => {
     this.setState({ menuOverlayOpen: false });
   };
- */
+
   render() {
     return (
       <>
-        {/*<MenuOverlay
+        <MenuOverlay
           click={this.overlayCloseClickHandler}
           show={this.state.menuOverlayOpen}
-        />*/}
+        />
 
         <header className="nav">
           <nav className="navbar">
@@ -39,13 +39,10 @@ class Header extends Component {
               <p>Irmandade CCB</p>
             </div>
             <div className="spacer" />
-            {/*<div className="navbar-menu">
+            <div className="navbar-menu">
               <ul>
                 <li>
                   <Link to="/">Home</Link>
-                </li>
-                <li>
-                  <Link to="/relatorio">Relatório</Link>
                 </li>
                 <li>
                   <Link to="/contact">Contato</Link>
@@ -55,7 +52,7 @@ class Header extends Component {
 
             <div className="spacer-button" />
 
-      <Drawer className="drawer" click={this.overlayToggleClickHandler} />*/}
+            <Drawer className="drawer" click={this.overlayToggleClickHandler} />
           </nav>
         </header>
       </>
