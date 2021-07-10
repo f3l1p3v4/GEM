@@ -1,0 +1,582 @@
+[
+  {
+    "id": "01",
+    "comun": "Aero Rancho",
+    "logradouro": "Rua Miguel Ângelo, 396",
+    "cep": "79083-520",
+    "cidade": "Campo Grande",
+    "bairro": "Aero Rancho BR 10-0217",
+    "maps": "https://www.google.com.br/maps/place/R.+Miguel+%C3%82ngelo,+396+-+Jardim+Aero+Rancho,+Campo+Grande+-+MS,+79083-520/@-20.526216,-54.6475109,17z/data=!3m1!4b1!4m5!3m4!1s0x9486e5aefe8abf67:0xdde121039002edf8!8m2!3d-20.526221!4d-54.6453222",
+    "dias-cultos": "DN 4N SN (RJM-DM)",
+    "cultos": ["Domingo - 19:00", "Quarta-feira - 19:30", "Sábado - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Domingo", "Quarta", "Sábado"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "André Alves da Silva",
+    "cooperador-oficial": "Adelson Delfino Suriano",
+    "diacono": "José Raimundo Pereira",
+    "cooperador-jovens": "Valmir Domingos dos Santos"
+  },
+  {
+    "id": "02",
+    "comun": "Aero Rancho ||",
+    "logradouro": "Rua Charlote, 1011",
+    "cep": "79083-610",
+    "cidade": "Campo Grande",
+    "bairro": "Aero Rancho || BR 10-0266",
+    "maps": "https://www.google.com.br/maps/place/R.+Charlote,+1011+-+Jardim+Aero+Rancho,+Campo+Grande+-+MS,+79083-610/@-20.5254481,-54.6556386,17z/data=!3m1!4b1!4m5!3m4!1s0x9486e452aadfa06f:0xbf7b41e819859237!8m2!3d-20.5254531!4d-54.6534499",
+    "dias-cultos": "DN 2N 5N (RJM-DM)",
+    "cultos": [
+      "Domingo - 19:00",
+      "Segunda-feira - 19:30",
+      "Quinta-feira - 19:30"
+    ],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Domingo", "Segunda", "Quinta"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Ramão Peralta",
+    "diacono": "Hamilton Rodrigues da Cruz",
+    "cooperador-jovens": "Anderson Barbosa dos Santos"
+  },
+  {
+    "id": "03",
+    "comun": "Aeroporto |",
+    "logradouro": "Rua Mongólia, 33",
+    "cep": "79103-200",
+    "cidade": "Campo Grande",
+    "bairro": "Aeroporto | BR 10-0277",
+    "maps": "https://www.google.com.br/maps/place/Congrega%C3%A7%C3%A3o+Crist%C3%A3+no+Brasil+-+Jd.+Aeroporto+I/@-20.447434,-54.6830836,17z/data=!3m1!4b1!4m5!3m4!1s0x9486e73b7d49fbcd:0xe2fa4e8c32e0a035!8m2!3d-20.447439!4d-54.6808949",
+    "dias-cultos": "2N 4N SN (RJM-DM)",
+    "cultos": [
+      "Segunda-feira - 19:30",
+      "Quarta-feira - 19:30",
+      "Sábado - 19:30"
+    ],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Segunda", "Quarta", "Sabado"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Pedro Fedossi",
+    "diacono": "",
+    "cooperador-jovens": "Sandro Teixeira Dantas"
+  },
+  {
+    "id": "04",
+    "comun": "Aeroporto ||",
+    "logradouro": "Rua Urquiza, 286",
+    "cep": "79106-040",
+    "cidade": "Campo Grande",
+    "bairro": "Aeroporto || BR 10-0170",
+    "maps": "https://www.google.com.br/maps/place/R.+Urquiza,+286+-+Jardim+Aeroporto,+Campo+Grande+-+MS,+79106-040/@-20.4409001,-54.6904919,17z/data=!3m1!4b1!4m5!3m4!1s0x9486e737d83d9eef:0xab7092be89635fd2!8m2!3d-20.4409051!4d-54.6883032",
+    "dias-cultos": "DN 5N (RJM-DM)",
+    "cultos": ["Domingo - 19:00", "Quinta-feira - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Domingo", "Quinta"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Luciano Irala",
+    "diacono": "",
+    "cooperador-jovens": "Leonardo Lopes de Brito"
+  },
+  {
+    "id": "05",
+    "comun": "Amambai",
+    "logradouro": "Rua Coriolano Ferraz Bais, 755",
+    "cep": "79005-220",
+    "cidade": "Campo Grande",
+    "bairro": "Amambai BR 10-0535",
+    "maps": "https://www.google.com.br/maps/place/R.+Coriolano+Ferraz+Ba%C3%ADs,+755+-+Amambai,+Campo+Grande+-+MS,+79005-220/@-20.4760667,-54.6348556,17z/data=!4m13!1m7!3m6!1s0x9486e6151d4bcb17:0xe6c4a269b1296d73!2sR.+Coriolano+Ferraz+Ba%C3%ADs,+755+-+Amambai,+Campo+Grande+-+MS,+79005-220!3b1!8m2!3d-20.470938!4d-54.6294954!3m4!1s0x9486e6151d4bcb17:0xe6c4a269b1296d73!8m2!3d-20.470938!4d-54.6294954",
+    "dias-cultos": "4N",
+    "cultos": ["Quarta-feira - 19:30"],
+    "reuniao-jovens": "",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Quarta"]
+    },
+    "RDM": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Charles Van Ferreira Silva",
+    "diacono": "",
+    "cooperador-jovens": ""
+  },
+  {
+    "id": "06",
+    "comun": "Anhandui",
+    "logradouro": "Rua Luxemburgo, s/n",
+    "cep": "79125-000",
+    "cidade": "Campo Grande",
+    "bairro": "Anhandui BR 10-0169",
+    "maps": "https://www.google.com.br/maps/place/Congrega%C3%A7%C3%A3o+Crist%C3%A3+no+Brasil+-+Distrito+Anhandu%C3%AD/@-20.9745958,-54.522989,14z/data=!4m9!1m2!2m1!1sRua+luxemburgo+-+bairro+anhandui+,+Campo+Grande+-+MS,+Brasil!3m5!1s0x94864123931a172f:0x59d1a9371d963e76!8m2!3d-20.9875554!4d-54.5043312!15sCjxSdWEgbHV4ZW1idXJnbyAtIGJhaXJybyBhbmhhbmR1aSAsIENhbXBvIEdyYW5kZSAtIE1TLCBCcmFzaWySARBjaHJpc3RpYW5fY2h1cmNo",
+    "dias-cultos": "DN 5N (RJM-DM)",
+    "cultos": ["Domingo - 19:30", "Quinta-feira - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Domingo", "Quinta"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Pedro Soares de Lima",
+    "diacono": "",
+    "cooperador-jovens": "Nelson Paulo Batista"
+  },
+  {
+    "id": "07",
+    "comun": "Bom Retiro",
+    "logradouro": "Rua Pedro José dos Santos, 340",
+    "cep": "79116-708",
+    "cidade": "Campo Grande",
+    "bairro": "Bom Retiro BR 10-0541",
+    "maps": "https://www.google.com.br/maps/place/Congrega%C3%A7%C3%A3o+Crist%C3%A3+no+Brasil+-+Bom+Retiro/@-20.4047693,-54.6376021,3a,75y,201.03h,92.76t/data=!3m7!1e1!3m5!1sOphkqXETvVliqy8M3P_AbA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DOphkqXETvVliqy8M3P_AbA%26cb_client%3Dsearch.gws-prod.gps%26w%3D86%26h%3D86%26yaw%3D71.311295%26pitch%3D0%26thumbfov%3D100!7i13312!8i6656!4m12!1m6!3m5!1s0x9486dd63d1cabd6f:0x7a8aee3da32a06cd!2sRua+Pedro+Jose+dos+Santos!8m2!3d-20.40543!4d-54.6375203!3m4!1s0x9486dd8de6933057:0xc13c1e82d0d11e46!8m2!3d-20.4047646!4d-54.6375009",
+    "dias-cultos": "DN 3N (RJM-DM)",
+    "cultos": ["Domingo - 19:00", "Terça-feira - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Domingo", "Terça"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Edevaldo Franco Siqueira",
+    "diacono": "",
+    "cooperador-jovens": "Luis Henrique Alves Rodrigues"
+  },
+  {
+    "id": "08",
+    "comun": "Bonjardin",
+    "logradouro": "Rua dos Passaros, 363",
+    "cep": "79091-160",
+    "cidade": "Campo Grande",
+    "bairro": "Bonjardin BR 10-0221",
+    "maps": "https://www.google.com.br/maps/place/R.+dos+P%C3%A1ssaros,+363+-+Nucleo+Hab.+Buriti,+Campo+Grande+-+MS,+79091-160/@-20.4920909,-54.6687875,17z/data=!3m1!4b1!4m5!3m4!1s0x9486e69b7c647685:0xcdd5e7b595e985db!8m2!3d-20.4920959!4d-54.6665988",
+    "dias-cultos": "DN 5N SN (RJM-DM)",
+    "cultos": ["Domingo - 19:00", "Quinta-feira - 19:30", "Sábado - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Domingo", "Quinta", "Sábado"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Edson Efôncio Amorin",
+    "diacono": "Ely Inácio de Almeida, Elias Efoncio de Farias",
+    "cooperador-jovens": "Diones Figueiredo Franklin Canela"
+  },
+  {
+    "id": "09",
+    "comun": "Bosque de Avilan",
+    "logradouro": "Rua Douter Jivago, 21",
+    "cep": "79012-510",
+    "cidade": "Campo Grande",
+    "bairro": "Bosque de Avilan BR 10-0329",
+    "maps": "https://www.google.com.br/maps/place/R.+Dr.+Jivago,+21+-+Monte+Castelo,+Campo+Grande+-+MS,+79012-510/@-20.4217465,-54.6051998,17z/data=!3m1!4b1!4m5!3m4!1s0x9486e87345c2b719:0x90ad7dac62b4d3e6!8m2!3d-20.4217515!4d-54.6030111",
+    "dias-cultos": "2N 5N (RJM-DM)",
+    "cultos": ["Segunda-feira - 19:30", "Quinta-feira - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Segunda", "Quinta"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Nilo Gomes Malaquias",
+    "diacono": "",
+    "cooperador-jovens": "Fábio Walney Ricaldes Gonçalves"
+  },
+  {
+    "id": "10",
+    "comun": "Botafogo",
+    "logradouro": "Rua Centro Oeste, 205",
+    "cep": "79070-494",
+    "cidade": "Campo Grande",
+    "bairro": "Botafogo BR 10-0287",
+    "maps": "https://www.google.com.br/maps/place/R.+Centro+Oeste,+205+-+Jardim+Morenao,+Campo+Grande+-+MS,+79070-060/@-20.5246774,-54.6249586,17z/data=!3m1!4b1!4m5!3m4!1s0x9486e59cf37750df:0x5c820a7abfb0604e!8m2!3d-20.5246824!4d-54.6227699",
+    "dias-cultos": "DN 4N (RJM-DM)",
+    "cultos": ["Domingo - 19:00", "Quarta-feira - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Domingo", "Quarta"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Carlos Alberto Macedo de Oliveira",
+    "diacono": "José Nunes de Andrade, Junior da Costa Lima de Oliveira",
+    "cooperador-jovens": "Robson Carvalho de Queiroz"
+  },
+  {
+    "id": "11",
+    "comun": "Caiçara",
+    "logradouro": "Rua dos Arquitetos, 112",
+    "cep": "79090-150",
+    "cidade": "Campo Grande",
+    "bairro": "Caiçara BR 10-0211",
+    "maps": "https://www.google.com.br/maps/place/R.+dos+Arquitetos,+112+-+Vila+Anahy,+Campo+Grande+-+MS,+79090-150/@-20.4789552,-54.6526809,17z/data=!3m1!4b1!4m5!3m4!1s0x9486e663d284a431:0xc31e93a3066b1ab4!8m2!3d-20.4789602!4d-54.6504922",
+    "dias-cultos": "DN 3N 6N (RJM-DM)",
+    "cultos": ["Domingo - 19:00", "Terça-feira - 19:30", "Sexta-feira - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Domingo", "Terça", "Sexta"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Luciano Efonso Tobaro",
+    "diacono": "José Lopes",
+    "cooperador-jovens": "Leonardo Semeler"
+  },
+  {
+    "id": "12",
+    "comun": "Campo Novo",
+    "logradouro": "Rua Johanesburgo, 323",
+    "cep": "79014-030",
+    "cidade": "Campo Grande",
+    "bairro": "Campo Novo BR 10-0252",
+    "maps": "https://www.google.com.br/maps/place/R.+Johanesburgo,+323+-+Mata+do+Segredo,+Campo+Grande+-+MS,+79014-030/@-20.4076014,-54.5911868,3a,79.3y,341.76h,76.83t/data=!3m6!1e1!3m4!1sm5X-ZOkGX4uUsW5XyKjwTw!2e0!7i16384!8i8192!4m5!3m4!1s0x9486e819db6deb49:0x184043c5c0b955f5!8m2!3d-20.407493!4d-54.591264",
+    "dias-cultos": "DN 4N SN (RJM-DM)",
+    "cultos": ["Domingo - 19:00", "Quarta-feira - 19:30", "Sábado - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Domingo", "Quarta", "Sábado"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Josimar Malaquias Alves",
+    "diacono": "",
+    "cooperador-jovens": "Moises Marques"
+  },
+  {
+    "id": "13",
+    "comun": "Canadá",
+    "logradouro": "Rua Colorado, 499",
+    "cep": "79112-480",
+    "cidade": "Campo Grande",
+    "bairro": "Canadá BR 10-0220",
+    "maps": "https://www.google.com.br/maps/place/R.+Colorado,+499+-+Vila+Almeida,+Campo+Grande+-+MS,+79112-480/@-20.4327657,-54.6619287,17z/data=!3m1!4b1!4m5!3m4!1s0x9486e77369a809d5:0x197b0bdb97b60294!8m2!3d-20.4327707!4d-54.65974",
+    "dias-cultos": "DN 6N (RJM-DM)",
+    "cultos": ["Domingo - 19:00", "Sexta-feira - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Domingo", "Sexta"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Sivirino Fernandes Teixeira, Elias Rodrigues Alves",
+    "diacono": "Auro da Silva Mattons",
+    "cooperador-jovens": "Fagner de Oliveira Melo"
+  },
+  {
+    "id": "14",
+    "comun": "Carioca",
+    "logradouro": "Rua Elizethe Cardoso, 107",
+    "cep": "79105-450",
+    "cidade": "Campo Grande",
+    "bairro": "Carioca BR 10-0369",
+    "maps": "https://www.google.com.br/maps/place/R.+Colorado,+499+-+Vila+Almeida,+Campo+Grande+-+MS,+79112-480/@-20.4327657,-54.6619287,17z/data=!3m1!4b1!4m5!3m4!1s0x9486e77369a809d5:0x197b0bdb97b60294!8m2!3d-20.4327707!4d-54.65974",
+    "dias-cultos": "DN 5N (RJM-DM)",
+    "cultos": ["Domingo - 19:00", "Quinta-feira - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Domingo", "Quinta"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Reinaldo Viana de Melo",
+    "diacono": "",
+    "cooperador-jovens": "Paulo Ribeiro de Matos"
+  },
+  {
+    "id": "15",
+    "comun": "Chácara das Mansões",
+    "logradouro": "Rua Sertanópolis, 1974",
+    "cep": "79105-450",
+    "cidade": "Campo Grande",
+    "bairro": "Chácara das Mansões BR 10-0265",
+    "maps": "https://www.google.com.br/maps/place/R.+Sertan%C3%B3polis,+Campo+Grande+-+MS/@-20.6652461,-54.5727468,17z/data=!4m5!3m4!1s0x9486f71e6cc51425:0x22c65acc38549663!8m2!3d-20.6656125!4d-54.5720494",
+    "dias-cultos": "4N SN (RJM-DM)",
+    "cultos": ["Quarta-feira - 19:30", "Sábado - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Quarta", "Sábado"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Adão Pereira da Silva, Edson Pereira da Silva",
+    "diacono": "",
+    "cooperador-jovens": "Roldinei Martins de Oliveira"
+  },
+  {
+    "id": "16",
+    "comun": "Colibri",
+    "logradouro": "Rua Hermenegildo Antônio de Araújo, 31",
+    "cep": "79071-121",
+    "cidade": "Campo Grande",
+    "bairro": "Colibri BR 10-0539",
+    "maps": "https://www.google.com.br/maps/place/R.+Hermenegildo+Ant%C3%B4nio+de+Ara%C3%BAjo,+31+-+Jardim+Colibri,+Campo+Grande+-+MS,+79071-121/@-20.5295633,-54.611834,17z/data=!3m1!4b1!4m5!3m4!1s0x9486e57e1dd6c5b5:0xd75e3cc913fd63ad!8m2!3d-20.5295683!4d-54.6096453",
+    "dias-cultos": "3N SN (RJM-DM)",
+    "cultos": ["Terça-feira - 19:30", "Sábado - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Terça", "Sábado"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Juvenal Rodrigues de Araújo",
+    "diacono": "",
+    "cooperador-jovens": "Antônio Carlos Exteca"
+  },
+  {
+    "id": "17",
+    "comun": "Colúmbia",
+    "logradouro": "Rua Carabinari, 499",
+    "cep": "79018-040",
+    "cidade": "Campo Grande",
+    "bairro": "Colúmbia BR 10-0285",
+    "maps": "https://www.google.com.br/maps/place/R.+Carabinari,+499+-+Jardim+Columbia,+Campo+Grande+-+MS,+79018-040/@-20.3800638,-54.5481765,17z/data=!3m1!4b1!4m5!3m4!1s0x9486c27305a2d687:0xf541a3145c1ad565!8m2!3d-20.3800688!4d-54.5459878",
+    "dias-cultos": "4N SN (RJM-DM)",
+    "cultos": ["Quarta-feira - 19:30", "Sábado - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Quarta", "Sábado"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Orrualdo Rodrigues",
+    "diacono": "",
+    "cooperador-jovens": "Valdeneis Teodoro dos Reis"
+  },
+  {
+    "id": "18",
+    "comun": "Corcovado - Pênfigo",
+    "logradouro": "Rua Flóripa, 197",
+    "cep": "79097-500",
+    "cidade": "Campo Grande",
+    "bairro": "Corcovado - Pênfigo BR 10-0566",
+    "maps": "https://www.google.com.br/maps/place/R.+Fl%C3%B3rida,+197+-+Jardim+Corcovado,+Campo+Grande+-+MS,+79097-500/@-20.5492795,-54.670911,3a,75y,147.9h,93.72t/data=!3m6!1e1!3m4!1so_4SJ9LV0QixnXueWufTaA!2e0!7i16384!8i8192!4m5!3m4!1s0x9486e4f20e01ddf7:0xf592e1b5eda27f8c!8m2!3d-20.5491316!4d-54.6709966",
+    "dias-cultos": "DN 4N (RJM-DM)",
+    "cultos": ["Domingo - 19:00", "Quarta-feira - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Domingo", "Quarta"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "Dermival Alves da Silva",
+    "cooperador-oficial": "Ronivete Luís Pereira",
+    "diacono": "Cécero Gomes da Rocha",
+    "cooperador-jovens": "JulianoSilva Moreira"
+  },
+  {
+    "id": "19",
+    "comun": "Cristo Redentor",
+    "logradouro": "Rua Matrinchan, 700",
+    "cep": "79042-710",
+    "cidade": "Campo Grande",
+    "bairro": "Cristo Redentor BR 10-0540",
+    "maps": "https://www.google.com.br/maps/place/R.+Matrinchan,+700+-+Lagoa+Dourada,+Campo+Grande+-+MS,+79042-710/@-20.496182,-54.563376,3a,75y,101.35h,94.88t/data=!3m6!1e1!3m4!1sGXlgaUB9gOkRjZMbgNnoNg!2e0!7i16384!8i8192!4m5!3m4!1s0x9486eee04dfd9a21:0xd38e5e1dc694ce44!8m2!3d-20.4961724!4d-54.5633254",
+    "dias-cultos": "2N SN (RJM-DM)",
+    "cultos": ["Segunda-feira - 19:30", "Sábado - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Segunda", "Sábado"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Elizeu Figueira da Silva",
+    "diacono": "",
+    "cooperador-jovens": "Adilson Campos da Silva"
+  },
+  {
+    "id": "20",
+    "comun": "Cruzeiro",
+    "logradouro": "Rua Anita Garibaldi, 1689",
+    "cep": "79011-332",
+    "cidade": "Campo Grande",
+    "bairro": "Cruzeiro BR 10-0031",
+    "maps": "https://www.google.com.br/maps/place/R.+Anita+Garibalde,+1689+-+Monte+Castelo,+Campo+Grande+-+MS,+79011-220/@-20.4274698,-54.5967559,17z/data=!3m1!4b1!4m5!3m4!1s0x9486e86f179d9609:0x47f34dfbe5f62d7!8m2!3d-20.4274748!4d-54.5945672",
+    "dias-cultos": "DN 3N SN (RJM-DM)",
+    "cultos": ["Domingo - 19:00", "Terça-feira - 19:30", "Sábado - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Domingo", "Terça", "Sábado"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "Carlos Cezar dos Santos",
+    "cooperador-oficial": "Pedro José Rezende Barros",
+    "diacono": "Aparecido Gonçalves, Enodis Gonçalves de Farias, Izaias Tomaz de Araujo",
+    "cooperador-jovens": "Lorival Lucas"
+  },
+  {
+    "id": "21",
+    "comun": "Fazenda Estrela",
+    "logradouro": "",
+    "cep": "79124-899",
+    "cidade": "Campo Grande",
+    "bairro": "Fazenda Estrela BR 10-0442",
+    "maps": "",
+    "dias-cultos": "SN",
+    "cultos": ["Sábado - 19:30"],
+    "reuniao-jovens": "",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Sábado"]
+    },
+    "RDM": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "João José dos Santos",
+    "diacono": "",
+    "cooperador-jovens": "Valdinei Bento Barbosa"
+  },
+  {
+    "id": "22",
+    "comun": "Fluminense",
+    "logradouro": "Rua Arcândelo Corelli, 190",
+    "cep": "79124-899",
+    "cidade": "Campo Grande",
+    "bairro": "Fluminense BR 10-0441",
+    "maps": "https://www.google.com.br/maps/place/R.+Arc%C3%A2ngelo+Coreli,+190+-+Vila+Nossa+Sra.+das+Gracas,+Campo+Grande+-+MS,+79116-460/@-20.4265501,-54.6469977,17z/data=!3m1!4b1!4m5!3m4!1s0x9486e7999eaa9e19:0xbb2ee3823c72ae81!8m2!3d-20.4265551!4d-54.644809",
+    "dias-cultos": "4N SN (RJM-DM)",
+    "cultos": ["Quarta-feira - 19:30", "Sábado - 19:30"],
+    "reuniao-jovens": "Domingo - 09:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Quarta", "Sábado"]
+    },
+    "RDM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "Reinaldo Batista de Oliveira",
+    "cooperador-oficial": "Alessandro de Almeida da Silva Filho",
+    "diacono": "José Claudino da Silva Filho",
+    "cooperador-jovens": "Jefferson Ronis Ribeiro dos Santos"
+  }
+]

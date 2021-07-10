@@ -1,0 +1,100 @@
+#church-info {
+  width: 100%;
+  max-width: 800px;
+  text-align: center;
+  margin: 10px auto;
+}
+
+.church-btn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.church-btn button {
+  height: 35px;
+  padding: 10px 15px;
+  background: #4b4b4b;
+  border: 0;
+  border-radius: 4px;
+  color: #fff;
+  font-weight: 700;
+  margin: 0 10px;
+  display: flex;
+  text-align: center;
+  text-decoration: none;
+  font-size: 0.8rem;
+  transition: 0.2s ease-in;
+}
+
+.church-btn button svg {
+  display: flex;
+  margin-right: 5px;
+}
+
+.church-btn a {
+  height: 35px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  color: var(--_color_0);
+  background: var(--_color_3);
+  margin: 0px 10px;
+  font-size: 1rem;
+  border-radius: 4px;
+  padding: 10px;
+  border: 1px solid var(--_color_3);
+  transition: 0.2s ease-in;
+}
+
+.church-btn a svg {
+  display: flex;
+  margin: 0 auto;
+  font-size: 1.3rem;
+}
+
+.church-btn a p {
+  font-size: 0.8rem;
+  font-weight: 500;
+  margin-left: 5px;
+}
+
+.content-church-info h1 {
+  color: var(--_color_1);
+  font-size: 2rem;
+  padding: 0px 20px;
+  text-align: center;
+}
+
+.content-church-info h2 {
+  color: var(--_color_1);
+  font-size: 1.7rem;
+  margin-bottom: 15px;
+}
+
+.content-church-info {
+  margin-top: 10px;
+  box-shadow: 0 0 0.2em grey;
+  border: none;
+  border-radius: 4px;
+  padding: 10px;
+  color: rgb(40, 40, 40);
+  background: #fff;
+}
+
+.content-church-info main ul {
+  margin-top: 10px;
+  border: none;
+  border-radius: 4px;
+  padding: 10px;
+  color: rgb(40, 40, 40);
+  cursor: pointer;
+  list-style: none;
+  text-align: left;
+}
+
+.content-church-info main ul p {
+  margin-bottom: 10px;
+}

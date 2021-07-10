@@ -1,0 +1,70 @@
+.menu-overlay {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: var(--_color_1);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  opacity: 0;
+  z-index: 2100;
+  opacity: 0.5;
+  visibility: hidden;
+  transition: opacity 0.3s ease-in-out;
+}
+
+@media (min-width: 769px) {
+  .menu-overlay {
+    display: none;
+  }
+}
+
+.menu-overlay svg {
+  width: 5.7em;
+  height: 5.7em;
+  position: absolute;
+  top: 30px;
+  right: 20px;
+  cursor: pointer;
+}
+
+@media (max-width: 480px) {
+  svg {
+    top: 5px;
+    right: 5px;
+  }
+}
+
+.menu-overlay ul {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+.menu-overlay ul li {
+  display: flex;
+  align-items: center;
+  height: 100%;
+  padding: 1.8rem 0;
+  margin: 0;
+}
+.menu-overlay ul li a {
+  width: 100%;
+  padding: 0 20px;
+  text-decoration: none;
+  font-size: 3em;
+  font-weight: bold;
+  cursor: pointer;
+  color: var(--_color_0);
+}
+
+.menu-overlay.open {
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
