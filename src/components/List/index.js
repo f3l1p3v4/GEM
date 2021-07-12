@@ -71,12 +71,12 @@ const List = (props) => {
     }
   }
 
-  //Array RDM
-  else if (props.data.type === "RDM") {
+  //Array RJM
+  else if (props.data.type === "RJM") {
     igrejas = [];
     if (props.data.period === "Manhã") {
       infos.forEach(function (el, i) {
-        let infoCurrent = el.RDM.manha;
+        let infoCurrent = el.RJM.manha;
 
         infoCurrent.forEach(function (period, i) {
           if (period === props.data.day) {
@@ -93,7 +93,7 @@ const List = (props) => {
     } else if (props.data.period === "Tarde") {
       messageCurrent = `Todas igrejas que irá ter culto ${props.data.day} de Tarde!`;
       infos.forEach(function (el, i) {
-        let infoCurrent = el.RDM.tarde;
+        let infoCurrent = el.RJM.tarde;
 
         infoCurrent.forEach(function (period, i) {
           if (period === props.data.day) {
@@ -110,7 +110,7 @@ const List = (props) => {
     } else if (props.data.period === "Noite") {
       messageCurrent = `Todas igrejas que irá ter culto ${props.data.day} de Noite!`;
       infos.forEach(function (el, i) {
-        let infoCurrent = el.RDM.noite;
+        let infoCurrent = el.RJM.noite;
 
         infoCurrent.forEach(function (period, i) {
           if (period === props.data.day) {

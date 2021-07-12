@@ -4,17 +4,16 @@ import "./styles.css";
 
 export default function Contact() {
   const [name, setName] = useState("");
-  const [email, setEmail] = useState("");
-  const [assunto, setAssunto] = useState("");
   const [message, setMessage] = useState("");
 
   async function handleSubmit(e) {
     e.preventDefault();
 
-    setName("");
-    setEmail("");
-    setAssunto("");
-    setMessage("");
+    let messageCurrent = encodeURI(`Olá, ${message}`);
+
+    window.location.replace(
+      `https://wa.me/+5567992656801?text=${messageCurrent}`
+    );
 
     alert("Sua mensagem foi enviado com sucesso!!!");
   }
@@ -25,31 +24,18 @@ export default function Contact() {
         <form onSubmit={handleSubmit}>
           <h1>Fale conosco!</h1>
           <p>
-            Se tiver alguma duvida é só pergundar! A equipe da{" "}
-            <strong>DevLoad</strong> te ajudará o mais rápido possível 😊 nos
-            conte o que achou da DevLoad, para podermos melhorar ainda mais.
+            Se tiver alguma duvida ou tiver alguma sujestão é só nos mandar uma
+            mensagem!
           </p>
           <input
             type="text"
-            placeholder="Nome Completo*"
+            placeholder="Nome"
             value={name}
             onChange={(e) => setName(e.target.value)}
           />
-          <input
-            type="email"
-            placeholder="E-mail*"
-            value={email}
-            onChange={(e) => setEmail(e.target.value)}
-          />
-          <input
-            type="text"
-            placeholder="Assunto*"
-            value={assunto}
-            onChange={(e) => setAssunto(e.target.value)}
-          />
           <textarea
             type="text"
-            placeholder="Mensagem"
+            placeholder="Mensagem*"
             value={message}
             onChange={(e) => setMessage(e.target.value)}
           />

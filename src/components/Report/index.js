@@ -14,7 +14,7 @@ export default function Report() {
   const listType = [
     { id: 1, name: "Tipo de Culto" },
     { id: 2, name: "Culto Oficial" },
-    { id: 3, name: "RDM" }
+    { id: 3, name: "RJM" }
   ];
 
   const listPeriod = [

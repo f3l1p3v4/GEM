@@ -15,7 +15,7 @@
       "tarde": [""],
       "noite": ["Domingo", "Quarta", "Sábado"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -45,7 +45,7 @@
       "tarde": [""],
       "noite": ["Domingo", "Segunda", "Quinta"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -75,7 +75,7 @@
       "tarde": [""],
       "noite": ["Segunda", "Quarta", "Sabado"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -101,7 +101,7 @@
       "tarde": [""],
       "noite": ["Domingo", "Quinta"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -127,7 +127,7 @@
       "tarde": [""],
       "noite": ["Quarta"]
     },
-    "RDM": {
+    "RJM": {
       "manha": [""],
       "tarde": [""],
       "noite": [""]
@@ -153,7 +153,7 @@
       "tarde": [""],
       "noite": ["Domingo", "Quinta"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -179,7 +179,7 @@
       "tarde": [""],
       "noite": ["Domingo", "Terça"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -205,7 +205,7 @@
       "tarde": [""],
       "noite": ["Domingo", "Quinta", "Sábado"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -231,7 +231,7 @@
       "tarde": [""],
       "noite": ["Segunda", "Quinta"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -257,7 +257,7 @@
       "tarde": [""],
       "noite": ["Domingo", "Quarta"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -283,7 +283,7 @@
       "tarde": [""],
       "noite": ["Domingo", "Terça", "Sexta"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -309,7 +309,7 @@
       "tarde": [""],
       "noite": ["Domingo", "Quarta", "Sábado"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -335,7 +335,7 @@
       "tarde": [""],
       "noite": ["Domingo", "Sexta"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -361,7 +361,7 @@
       "tarde": [""],
       "noite": ["Domingo", "Quinta"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -387,7 +387,7 @@
       "tarde": [""],
       "noite": ["Quarta", "Sábado"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -413,7 +413,7 @@
       "tarde": [""],
       "noite": ["Terça", "Sábado"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -439,7 +439,7 @@
       "tarde": [""],
       "noite": ["Quarta", "Sábado"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -465,7 +465,7 @@
       "tarde": [""],
       "noite": ["Domingo", "Quarta"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -491,7 +491,7 @@
       "tarde": [""],
       "noite": ["Segunda", "Sábado"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -517,7 +517,7 @@
       "tarde": [""],
       "noite": ["Domingo", "Terça", "Sábado"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
@@ -543,7 +543,7 @@
       "tarde": [""],
       "noite": ["Sábado"]
     },
-    "RDM": {
+    "RJM": {
       "manha": [""],
       "tarde": [""],
       "noite": [""]
@@ -569,7 +569,7 @@
       "tarde": [""],
       "noite": ["Quarta", "Sábado"]
     },
-    "RDM": {
+    "RJM": {
       "manha": ["Domingo"],
       "tarde": [""],
       "noite": [""]
