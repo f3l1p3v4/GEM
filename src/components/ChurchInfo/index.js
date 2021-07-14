@@ -92,7 +92,7 @@ const List = () => {
                   <strong>Diácono:</strong> {church.diacono}
                 </p>
                 <p>
-                  <strong>Cooperador de Jovens e Menores:</strong> {church.diacono}
+                  <strong>Cooperador de Jovens e Menores:</strong> {church.["cooperador-jovens"]}
                 </p>
               </li>
             </ul>
