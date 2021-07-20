@@ -1167,5 +1167,265 @@
     "cooperador-oficial": "Donner Duarte Garcia Vieira",
     "diacono": "Diógenes Francisco Pinheiro, Marcos Cesar de Camargo",
     "cooperador-jovens": "Luciano da Mata"
+  },
+  {
+    "id": "45",
+    "comun": "Paulo Coelho Machado",
+    "logradouro": "Rua Lorenzo Torres Cintas, 619",
+    "cep": "79072-435",
+    "cidade": "Campo Grande",
+    "bairro": "Paulo Coelho Machado BR 10-0473",
+    "maps": "https://www.google.com.br/maps/place/Rua+Lourenzo+Torres+Cintas,+619+-+Jardim+Centro+Oeste,+Campo+Grande+-+MS/@-20.5523002,-54.6039124,17z/data=!4m13!1m7!3m6!1s0x9486eff12a7e981f:0x98911e8012e815bd!2sRua+Lourenzo+Torres+Cintas,+619+-+Jardim+Centro+Oeste,+Campo+Grande+-+MS!3b1!8m2!3d-20.5522591!4d-54.6038216!3m4!1s0x9486eff12a7e981f:0x98911e8012e815bd!8m2!3d-20.5522591!4d-54.6038216",
+    "dias-cultos": "SN",
+    "cultos": ["Sábado - 19:30"],
+    "reuniao-jovens": "",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Sábado"]
+    },
+    "RJM": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Elson dos Santos Alencar",
+    "diacono": "",
+    "cooperador-jovens": ""
+  },
+  {
+    "id": "46",
+    "comun": "Pioneiros",
+    "logradouro": "Rua Dona Deolinda Pereira de Souza, 494",
+    "cep": "79070-130",
+    "cidade": "Campo Grande",
+    "bairro": "Pioneiros BR 10-0033",
+    "maps": "https://www.google.com.br/maps/place/Congrega%C3%A7%C3%A3o+Crist%C3%A3+no+Brasil+(CCB)+Pioneiros/@-20.5146597,-54.6083312,19.75z/data=!4m13!1m7!3m6!1s0x9486ef7d333b5a15:0xd3422075adc491a9!2sR.+Don%C3%A1+Deolinda+Pereira+de+Souza,+494+-+Universit%C3%A1rio,+Campo+Grande+-+MS,+79070-130!3b1!8m2!3d-20.5146896!4d-54.6080797!3m4!1s0x9486ef7d350aee85:0x5216cf9ea744de2a!8m2!3d-20.5148678!4d-54.6080316",
+    "dias-cultos": "DN 5N (RJM-DM)",
+    "cultos": ["Domingo - 19:00", "Quinta-feira - 19:30"],
+    "reuniao-jovens": "Domingo - 9:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Domingo", "Quinta"]
+    },
+    "RJM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "Daniel Martins dos Santos",
+    "cooperador-oficial": "Maurício dos Santos Leque",
+    "diacono": "Valdir Firmino Dutra, Juarez Guedes do Nascimento, Alessandro Costanzi de Oliveira",
+    "cooperador-jovens": ""
+  },
+  {
+    "id": "47",
+    "comun": "Piratininga",
+    "logradouro": "Rua Voluntários da Pátria, 45",
+    "cep": "79081-110",
+    "cidade": "Campo Grande",
+    "bairro": "Piratininga BR 10-0284",
+    "maps": "https://www.google.com.br/maps/place/R.+Volunt%C3%A1rios+da+P%C3%A1tria,+45+-+Vila+Piratininga,+Campo+Grande+-+MS,+79081-110/@-20.4949946,-54.62728,17z/data=!3m1!4b1!4m5!3m4!1s0x9486e5e4306b20b5:0x1d410ee811546e4!8m2!3d-20.4949996!4d-54.6250913",
+    "dias-cultos": "DN 5N (RJM-DM)",
+    "cultos": ["Domingo - 19:00", "Quinta-feira - 19:30"],
+    "reuniao-jovens": "Domingo - 9:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Domingo", "Quinta"]
+    },
+    "RJM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Rubens Soler Rodrigues",
+    "diacono": "Benedito Vaz de Lima",
+    "cooperador-jovens": "Elizio Gonçalves Moreira"
+  },
+  {
+    "id": "48",
+    "comun": "Pontezinha",
+    "logradouro": "Chácara Pontezinha, 57",
+    "cep": "79124-899",
+    "cidade": "Campo Grande",
+    "bairro": "Pontezinha BR 10-0479",
+    "maps": "https://www.google.com.br/maps/place/Congrega%C3%A7%C3%A3o+Crist%C3%A3+No+Brasil+-+Pontezinha/@-20.3957205,-54.7210672,12z/data=!4m9!1m2!2m1!1sCh%C3%A1cara+Pontezinha,+57+campo+grande+ms!3m5!1s0x9486ddc186dd9f9b:0xf59cfc05e4e72f93!8m2!3d-20.3957138!4d-54.6806005!15sCidDaMOhY2FyYSBQb250ZXppbmhhLCA1NyBjYW1wbyBncmFuZGUgbXOSAQZjaHVyY2g",
+    "dias-cultos": "3N 6N (RJM-DM)",
+    "cultos": ["Terça-feira - 19:30", "Sexta-feira - 19:30"],
+    "reuniao-jovens": "Domingo - 9:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Terça", "Sexta"]
+    },
+    "RJM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Joelcio Rodrigues da Silva",
+    "diacono": "",
+    "cooperador-jovens": ""
+  },
+  {
+    "id": "49",
+    "comun": "Portal Caiobá",
+    "logradouro": "Rua das Valquírias, 240",
+    "cep": "79096-090",
+    "cidade": "Campo Grande",
+    "bairro": "Portal Caiobá BR 10-0270",
+    "maps": "https://www.google.com.br/maps/place/R.+das+Valqu%C3%ADrias,+240+-+Portal+Caioba,+Campo+Grande+-+MS,+79096-090/@-20.5210471,-54.6851192,17z/data=!3m1!4b1!4m5!3m4!1s0x9486e4133ae911b9:0xbcc272a2a0d34703!8m2!3d-20.5210521!4d-54.6829305",
+    "dias-cultos": "DN 5N (RJM-DM)",
+    "cultos": ["Domingo - 19:00", "Quinta-feira - 19:30"],
+    "reuniao-jovens": "Domingo - 9:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Domingo", "Quinta"]
+    },
+    "RJM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "Valdir Gabriel da Silva",
+    "cooperador-oficial": "Antônio Luiz de França Neto",
+    "diacono": "",
+    "cooperador-jovens": "Janderson Matricardi de Souza"
+  },
+  {
+    "id": "50",
+    "comun": "Portal da Lagoa",
+    "logradouro": "Rua Valdomiro de Oliveira Lima, s/n",
+    "cep": "79117-900",
+    "cidade": "Campo Grande",
+    "bairro": "Portal da Lagoa BR 10-0380",
+    "maps": "https://www.google.com.br/maps/place/Congrega%C3%A7%C3%A3o+Crist%C3%A3+no+Brasil+-+Portal+da+Lagoa/@-20.3922754,-54.6281092,17.75z/data=!4m13!1m7!3m6!1s0x9486dd4495243cc7:0xf79b7f2d67e5f888!2sR.+Waldemiro+de+Oliveira+Lima+-+Campo+Grande,+MS!3b1!8m2!3d-20.3937443!4d-54.6247244!3m4!1s0x9486dd44973f2403:0xa6f519b5e40b4169!8m2!3d-20.3938457!4d-54.6248219",
+    "dias-cultos": "4N SN (RJM-DM)",
+    "cultos": ["Quarta-feira - 19:30", "Sábado - 19:30"],
+    "reuniao-jovens": "Domingo - 9:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Quarta", "Sábado"]
+    },
+    "RJM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Luiz Carlos Andrade Penariol",
+    "diacono": "",
+    "cooperador-jovens": "Dagberto Barbosa de Assunção"
+  },
+  {
+    "id": "51",
+    "comun": "Rita Vieira",
+    "logradouro": "Rua Josué Pereira Ferreira, 261",
+    "cep": "79052-270",
+    "cidade": "Campo Grande",
+    "bairro": "Rita Vieira BR 10-0278",
+    "maps": "https://www.google.com.br/maps/place/R.+Josu%C3%A9+Pereira+Ferreira,+261+-+Rita+Vieira,+Campo+Grande+-+MS,+79052-270/@-20.5048509,-54.5890466,17z/data=!3m1!4b1!4m5!3m4!1s0x9486ef13577a0b7d:0xc3ac9cef13e33dee!8m2!3d-20.5048559!4d-54.5868579",
+    "dias-cultos": "DN 5N (RJM-DM)",
+    "cultos": ["Domingo - 19:00", "Quinta-feira - 19:30"],
+    "reuniao-jovens": "Domingo - 9:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Domingo", "Quinta"]
+    },
+    "RJM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Wanderlei Aguino Victor",
+    "diacono": "",
+    "cooperador-jovens": "Kleber Furst da Silva"
+  },
+  {
+    "id": "52",
+    "comun": "Rouxinóis",
+    "logradouro": "Rua José Borges Nascimento, 141",
+    "cep": "79063-190",
+    "cidade": "Campo Grande",
+    "bairro": "Rouxinóis BR 10-0264",
+    "maps": "https://www.google.com.br/maps/place/R.+Jos%C3%A9+Borges+Nascimento,+141+-+Conj.+Res.+Recanto+dos+Rouxinois,+Campo+Grande+-+MS,+79063-190/@-20.5274091,-54.5870555,17z/data=!3m1!4b1!4m5!3m4!1s0x9486efa3003342b7:0xad2aff5e615723f!8m2!3d-20.5274141!4d-54.5848668",
+    "dias-cultos": "DM 2N SN (RJM-DT)",
+    "cultos": ["Domingo - 9:30", "Segunda-feira - 19:30", "Sábado - 19:30"],
+    "reuniao-jovens": "Domingo - 14:30",
+    "oficial": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": ["Segunda", "Sábado"]
+    },
+    "RJM": {
+      "manha": [""],
+      "tarde": ["Domingo"],
+      "noite": [""]
+    },
+    "anciao": "Silvio dos Santos Leque",
+    "cooperador-oficial": "João Batista Xavier da Silva",
+    "diacono": "Marcos Antônio dos Santos",
+    "cooperador-jovens": "Alcebiades Leandro Menino de Queiros"
+  },
+  {
+    "id": "53",
+    "comun": "Santa Felicidade",
+    "logradouro": "Rua Antônio Moreno, 201",
+    "cep": "79064-290",
+    "cidade": "Campo Grande",
+    "bairro": "Santa Felicidade BR 10-0249",
+    "maps": "https://www.google.com.br/maps/place/Congrega%C3%A7%C3%A3o+Crist%C3%A3+no+Brasil+-+Jardim+Santa+Felicidade/@-20.56171,-54.5839647,19.75z/data=!4m13!1m7!3m6!1s0x9486f02094d61b6f:0xc5b32c940809f5b6!2sR.+Ant%C3%B4nio+Moreno,+201+-+Jardim+Santa+Felicidade,+Campo+Grande+-+MS,+79064-290!3b1!8m2!3d-20.56168!4d-54.5836259!3m4!1s0x9486f020ea8532d5:0xc79721c46defc23e!8m2!3d-20.5617943!4d-54.5834978",
+    "dias-cultos": "2N 6N (RJM-DM)",
+    "cultos": ["Segunda-feira - 19:30", "Sexta-feira - 19:30"],
+    "reuniao-jovens": "Domingo - 9:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Segunda", "Sexta"]
+    },
+    "RJM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Durvalino Marques de Araújo",
+    "diacono": "",
+    "cooperador-jovens": "Ernesto Borges de Queirós"
+  },
+  {
+    "id": "54",
+    "comun": "Santa Mônica 2",
+    "logradouro": "Rua Calaveras, 575",
+    "cep": "79106-570",
+    "cidade": "Campo Grande",
+    "bairro": "Santa Mônica 2 BR 10-0361",
+    "maps": "https://www.google.com.br/maps/place/R.+Calaveras,+575+-+Bosque+Santa+Monica,+Campo+Grande+-+MS,+79106-570/@-20.4563637,-54.7150941,17z/data=!3m1!4b1!4m5!3m4!1s0x9486e0c4b1a61fe5:0xb00125a455bb9f8e!8m2!3d-20.4563687!4d-54.7129054",
+    "dias-cultos": "4N SN (RJM-DM)",
+    "cultos": ["Quarta-feira - 19:30", "Sábado - 19:30"],
+    "reuniao-jovens": "Domingo - 9:30",
+    "oficial": {
+      "manha": [""],
+      "tarde": [""],
+      "noite": ["Quarta", "Sábado"]
+    },
+    "RJM": {
+      "manha": ["Domingo"],
+      "tarde": [""],
+      "noite": [""]
+    },
+    "anciao": "",
+    "cooperador-oficial": "Joaquim da Silva Barros",
+    "diacono": "",
+    "cooperador-jovens": ""
   }
 ]
