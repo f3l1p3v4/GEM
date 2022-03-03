@@ -3,24 +3,24 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 import Header from "./components/Header";
 
-import ReportPage from "./pages/ReportPage";
-import ChurchPage from "./pages/ChurchPage";
-import ContactPage from "./pages/ContactPage";
+import Home from "./pages/Home";
+import Report from "./pages/Report";
+import ReportChurch from "./pages/ReportChurch";
+import Moodle from "./pages/Moodle";
+import Class from "./pages/Class";
 
 export default function Routes() {
   return (
     <div>
       <BrowserRouter>
         <Header />
-        <div className="main_container">
+        <div className="main-container">
           <Switch>
-            <Route path="/" exact component={ReportPage} />
-            <Route
-              name="informacoes"
-              path="/informacoes/:church"
-              component={ChurchPage}
-            />
-            <Route path="/contact" component={ContactPage} />
+            <Route path="/" exact component={Home} />
+            <Route path="/relatorios" component={Report} />
+            <Route path="/relatorio/:igreja" component={ReportChurch} />
+            <Route path="/moodle" component={Moodle} />
+            <Route path="/aulas" component={Class} />
           </Switch>
         </div>
       </BrowserRouter>

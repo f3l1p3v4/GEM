@@ -1,9 +1,11 @@
 import React from "react";
 
+import HomeServices from "../components/HomeServices";
+
 function Home() {
   return (
     <>
-      <div className="home_container"></div>
+      <HomeServices />
     </>
   );
 }

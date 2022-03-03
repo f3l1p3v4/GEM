@@ -6,7 +6,7 @@
   outline: 0;
   box-sizing: border-box;
   --_color_0: #ffffff;
-  --_color_1: #4b4b4b;
+  --_color_1: #787878;
   --_color_2: #999999;
   --_color_3: #4059fb;
   --_color_4: #5996f0;
@@ -16,15 +16,12 @@
 
 body {
   font: 400 14px Roboto, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  background: #76767612;
+  background: #d0d0d0;
+  color: var(--_color_1);
 }
 
 input,
-button,
 textarea {
-  height: 45px;
-  padding: 10px;
   font: 400 18px Roboto, sans-serif;
   color: #4b4b4b;
   border: 1px solid #4b4b4b;
@@ -36,7 +33,7 @@ button {
 }
 
 form select {
-  width: 99.1%;
+  width: 100%;
   height: 45px;
   color: #4b4b4b;
   border: 1px solid #4b4b4b;
@@ -80,29 +77,28 @@ a {
   text-decoration: none;
 }
 
-.home_container {
+.link {
+  font-weight: 700;
+  color: rgb(11, 112, 200);
+}
+
+.main-container {
   width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
   text-align: center;
 }
 
-.warnings {
-  background: rgb(252, 187, 187);
-  color: rgb(235, 18, 18);
-  padding: 10px;
+.warning {
   text-align: center;
-  font-size: 1.2rem;
-  font-weight: 500;
+  padding: 20px;
+  background: rgb(154, 241, 154);
+  color: rgb(4, 95, 4);
 }
 
 @media (max-width: 700px) {
-  .home_container {
+  .main-container {
     padding: 0;
-  }
-
-  input,
-  button,
-  textarea {
-    height: 55px;
   }
 
   form select {
@@ -118,9 +114,5 @@ a {
     background: #4b4b4b;
     border: 0;
     color: #fff;
-  }
-
-  .warnings {
-    font-size: 0.9rem;
   }
 }

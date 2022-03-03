@@ -6,13 +6,13 @@ import "./global.css";
 
 function App() {
   return (
-    <div>
-      <p className="warnings">
-        Importante! Horários de culto podem estar diferentes por conta da
-        pandemia.
+    <>
+      <p className="warning">
+        A paz de Deus!!! Nosso ensaio regional será neste próximo domingo dia{" "}
+        <strong>06/03/2022 início as 8:30</strong>
       </p>
       <Routes />
-    </div>
+    </>
   );
 }
 

@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 
 import "./styles.css";
 
-import Drawer from "../Menu/Drawertogglebutton";
-import MenuOverlay from "../Menu/MenuOverlay";
+import Drawer from "../HeaderDrawerButton";
+import MenuOverlay from "../HeaderMenuOverlay";
 
 class Header extends Component {
   constructor(props) {
@@ -45,7 +45,7 @@ class Header extends Component {
                   <Link to="/">Home</Link>
                 </li>
                 <li>
-                  <Link to="/contact">Contato</Link>
+                  <Link to="/relatorios">Relatório</Link>
                 </li>
               </ul>
             </div>

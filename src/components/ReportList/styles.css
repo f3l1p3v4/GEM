@@ -1,20 +1,19 @@
-#list {
+.list-wrapper {
   text-align: center;
 }
 
-#list h1 {
+.list-wrapper h1 {
   color: var(--_color_1);
   font-size: 1.4rem;
   padding: 0px 20px;
 }
 
-.content-list {
-  padding: 20px 10px;
+.list-content {
+  padding: 20px;
 }
 
-.content-list main ul {
+.list-content main ul {
   margin-top: 10px;
-  box-shadow: 0 0 0.2em grey;
   border: none;
   border-radius: 4px;
   padding: 10px;
@@ -22,35 +21,35 @@
   background: #fff;
 }
 
-.content-list main ul li {
+.list-content main ul li {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
-.content-list main ul li div {
+.list-content main ul li div {
   cursor: pointer;
   transition: 0.2s ease-in;
 }
 
-.content-list main ul li div:hover {
+.list-content main ul li div:hover {
   opacity: 0.8;
 }
 
-.content-list main ul li div a h2 {
+.list-content main ul li div a h2 {
   color: var(--_color_1);
   font-size: 1.6rem;
   text-align: left;
 }
 
-.content-list main ul li div a p {
+.list-content main ul li div a p {
   color: #7b7b7b;
   font-size: 0.8rem;
   font-weight: 400;
   text-align: left;
 }
 
-.list-maps {
+.list-wrapper-maps {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -64,17 +63,11 @@
   transition: 0.2s ease-in;
 }
 
-.list-maps:hover {
+.list-wrapper-maps:hover {
   background: #1836f5;
 }
 
-.list-maps svg {
-  display: flex;
-  margin: 0 auto;
-  font-size: 1.7rem;
-}
-
-.list-maps p {
+.list-wrapper-maps p {
   color: var(--_color_0);
   font-size: 1rem;
   font-weight: 500;
@@ -82,29 +75,29 @@
 }
 
 @media (max-width: 700px) {
-  #list h1 {
+  .list-wrapper h1 {
     color: var(--_color_1);
     font-size: 1.2rem;
     padding: 0px 20px;
   }
 
-  .content-list main ul li div a h2 {
+  .list-content main ul li div a h2 {
     font-size: 1.4rem;
   }
 
-  .content-list main ul li div a p {
+  .list-content main ul li div a p {
     font-size: 0.7rem;
   }
 
-  .list-maps {
+  .list-wrapper-maps {
     font-size: 1.4rem;
   }
 
-  .list-maps svg {
+  .list-wrapper-maps svg {
     font-size: 1.4rem;
   }
 
-  .list-maps p {
+  .list-wrapper-maps p {
     font-size: 0.8rem;
   }
 }

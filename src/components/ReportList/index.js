@@ -1,12 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { SiGooglemaps } from "react-icons/si";
 
-import datas from "../../data/info.json";
+import datas from "../../data/church.json";
 
 import "./styles.css";
 
-const List = (props) => {
+const ReportList = (props) => {
   const infos = datas;
   let igrejas = infos;
   let novasIgrejas = [];
@@ -130,45 +129,43 @@ const List = (props) => {
   }
 
   return (
-    <>
-      <section id="list">
-        <h1>{messageCurrent}</h1>
-        <div className="content-list">
-          {igrejas.map((info) => (
-            <main key={info.id}>
-              <ul>
-                <li>
-                  <div>
-                    <Link
-                      to={{
-                        pathname: `/informacoes/${info.comun}`
-                      }}
-                      onClick={() => getChurchInfo(info)}
-                    >
-                      <h2>{info.comun}</h2>
-                      <p>
-                        <strong>Cultos: </strong>
-                        {info.["dias-cultos"]}
-                      </p>
-                    </Link>
-                  </div>
-                  <a
-                    href={info.maps}
-                    className="list-maps"
-                    target="_blank"
-                    rel="noreferrer"
+    <section className="list-wrapper">
+      <h1>{messageCurrent}</h1>
+      <div className="list-content">
+        {igrejas.map((info) => (
+          <main key={info.id}>
+            <ul>
+              <li>
+                <div>
+                  <Link
+                    to={{
+                      pathname: `/relatorio/${info.ordinary}`
+                    }}
+                    onClick={() => getChurchInfo(info)}
                   >
-                    <SiGooglemaps />
-                    <p className="list-maps-text">Ver rotas</p>
-                  </a>
-                </li>
-              </ul>
-            </main>
-          ))}
-        </div>
-      </section>
-    </>
+                    <h2>{info.ordinary}</h2>
+                    <p>
+                      <strong>Cultos: </strong>
+                      {info.day_cult}
+                    </p>
+                  </Link>
+                </div>
+                <Link
+                  to={{
+                    pathname: `/relatorio/${info.ordinary}`
+                  }}
+                  onClick={() => getChurchInfo(info)}
+                  className="list-wrapper-maps"
+                >
+                  <p>Saber mais</p>
+                </Link>
+              </li>
+            </ul>
+          </main>
+        ))}
+      </div>
+    </section>
   );
 };
 
-export default List;
+export default ReportList;
